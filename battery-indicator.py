@@ -1,3 +1,4 @@
+# Python app to show battery percentage of laptop
 from plyer import notification
 import psutil
 from time import sleep
